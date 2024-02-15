@@ -8,9 +8,8 @@
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<div align="center"
->
-<h2></2>
+<div align="center">
+<h2><h/2>
 
 <img src="./assets/center.gif" align="right" 
 height="300px"
